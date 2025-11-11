@@ -1,0 +1,4 @@
+C:/Users/ekesh/OneDrive/Desktop/Industry/stm_codes/low level/STM32F4_Device_Headers_LL_HAL/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_bus.h:409:22:LL_AHB1_GRP1_EnableClock	1
+C:/Users/ekesh/OneDrive/Desktop/Industry/stm_codes/low level/STM32F4_Device_Headers_LL_HAL/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:273:22:LL_GPIO_SetPinMode	1
+C:/Users/ekesh/OneDrive/Desktop/Industry/stm_codes/low level/STM32F4_Device_Headers_LL_HAL/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:939:22:LL_GPIO_TogglePin	1
+../Src/main.c:4:5:main	2
